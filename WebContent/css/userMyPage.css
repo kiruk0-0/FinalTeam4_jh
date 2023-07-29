@@ -68,10 +68,7 @@ body {
 	/* align-items: center; */
 	
 }
-.mright
-{
-	
-}
+
 
 .see1 {
 	display: flex;
@@ -150,9 +147,6 @@ body {
 {
 	font-size: 2vw;
 	text-align: center;
-
-	
-	
 }
 
 .gogo 
@@ -206,8 +200,6 @@ body {
 }
 
 .title2 {
-	/* margin: 1vw; */
-	/* font-weight: bold; */
 	font-size: 30px;
 }
 

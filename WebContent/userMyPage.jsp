@@ -9,21 +9,7 @@ String cp = request.getContextPath();
 <head>
 <meta charset="UTF-8">
 <title>userMyPage</title>
-<!-- 
-<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
 
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
-
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<link rel="stylesheet" type="text/css" href="css/main.css">
-
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
--->
 <link rel="stylesheet" type="text/css" href="<%=cp %>/css/MY_personal_main(0725_1).css">
 <link rel="stylesheet" type="text/css" href="<%=cp %>/css/userMyPage.css">
 
