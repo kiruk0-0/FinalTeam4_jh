@@ -10,10 +10,6 @@
 
 	<context:component-scan base-package="com.test.mybatis" />
 
-	<!-- ③ mybatis 등록 과정에서 생겨나는 추가 코드 『2』 -->
-	<!-- ※ mybatis 를 사용하기 위한 환경 설정을 추가하는 과정에서 -->
-	<!-- 필요한 dataSource 를 사용하기 위한 환경 설정 추가 -->
-	<!-- → SimpleDriverDataSource -->
 	<bean id="localDataSource"
 		class="org.springframework.jdbc.datasource.SimpleDriverDataSource">
 		<property name="driverClass"
